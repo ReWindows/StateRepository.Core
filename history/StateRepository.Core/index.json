@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "StateRepository.Core.dll",
+  "latest": "457270010-154386A8B04540E5567BB9195A914A9F-1",
+  "builds": [
+    {
+      "key": "457270010-154386A8B04540E5567BB9195A914A9F-1",
+      "timestamp": "457270010",
+      "pdb_guid": "154386A8B04540E5567BB9195A914A9F",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/457270010-154386A8B04540E5567BB9195A914A9F-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
